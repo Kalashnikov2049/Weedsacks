@@ -1,0 +1,66 @@
+.titulo1{
+    background-color: #54e346;
+    color: #f6f578;
+    display: inline-block;
+    width: 35%;
+    padding: 1%;
+    font-size: 35px;
+    opacity: 0.8;
+
+}
+    .roms{
+        padding: 15px;
+        background-color: #54e346;
+        display: inline-block;
+        margin-left: 10%;
+        font-size: 25px;
+        color: #f6f578; 
+        text-decoration: none;
+        opacity: 0.8;
+        
+    }
+    
+    .roms:hover{
+        background-image: url(2.jpg);
+        background-size: 100%;
+    }
+    body{
+        background-image: url(1.jpg);
+        background-size: 100%;
+    }
+    nav{
+        background: #54e346;
+        opacity: 0.8;
+        border-radius: 10px;
+    }
+    .parrafo{
+        display: block;
+        background: #54e346;
+        color: #f6f578;
+        width: 20%;
+        opacity: 0.8;
+        font-size: 25px;
+        border-radius: 10px;
+    }
+    img{
+        opacity: 0.8;
+        width: 60%;
+        margin-top: 50px;
+        margin-left: 50px;
+    }
+    .bloque{
+        display: inline-block;
+    }
+    div{
+        background:#54e346 ;
+        color: #f6f578;
+        opacity: 0.8;
+        margin-top: 5px;
+        width: 7%;
+        border-radius: 3px;
+
+    }
+input{
+    background: #54e346 ;
+    opacity: 0.8;
+}
